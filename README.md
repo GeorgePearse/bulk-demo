@@ -4,4 +4,4 @@ Demo of https://github.com/koaning/bulk on some interesting medical dataset. Ide
 Is there a way to add links to code snippets, directly from a repo?
 
 TODO: 
-- [ ] Add the CSV of whatever data you end up using, you want something about 10K, short sentences
+- [ ] Add the CSV of whatever data you end up using, you want something about 10K, short sentences. BBC news report subheaders would be great. Just faff to get.
